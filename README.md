@@ -1,6 +1,6 @@
 # Weathercast
 
-Weathercast is a weather app built with React and [OpenWeatherApp API](https://openweathermap.org) where the user can get real-time and daily weather information for any city.
+Weathercast is a weather app built with React and [OpenWeatherMap API](https://openweathermap.org) where the user can get real-time and daily weather information for any city.
 
 Live site: [Weathercast App Netlify](https://weathercast-app-react.netlify.app)
 
